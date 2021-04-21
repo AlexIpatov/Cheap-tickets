@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  Tickets_objective-c
+
+  Created by Александр Ипатов on 06.02.2021.
+  
+*/
+
+
+// TabBarController
+
+"search_tab" = "Chercher";
+"map_tab" = "Carte des prix";
+"favorites_tab" = "Favoris";
+
+
+// MainViewController
+
+"main_from" = "De";
+"main_to" = "À";
+"main_search" = "Trouver";
+
+
+// FirstViewController
+
+"about_app_header" = "À PROPOS DE";
+"tickets_header" = "DES BILLETS";
+"map_price_header" = "PLAN DE PRIX";
+"favorites_header" = "FAVORIS";
+
+"favorites" = "Favoris";
+"about_app_describe" = "Application de recherche de vol";
+"tickets_describe" = "Trouvez les vols les moins chers";
+"map_price_describe" = "Voir la carte des prix";
+"favorites_describe" = "Enregistrer les billets sélectionnés dans les favoris";
+
+"next_button" = "SUIVANTE";
+"done_button" = "TERMINÉ";
+
+"airports" = "Aéroport";
+"cities" = "Villes";
+// TicketsViewController
+
+"tickets_title" = "Des billets";
+"add_to_favorite" = "Ajouter aux Favoris";
+"remove_from_favorite" = "Supprimer des favoris";
+"remind_me" = "Rappelle moi";
+"ticket_reminder" = "Rappel de ticket";
+"notification_will_be_sent" = "Une notification sera envoyée";
+"success" = "Succès";
+
+// Alerts
+
+"error" = "Erreur";
+"tickets_not_found" = "Aucun billet trouvé pour cette direction";
+"oops" = "Oops!";
+"close" = "Proche";
+"not_set_place_arrival_or_departure" = "Vous devez indiquer le lieu de départ et le lieu d'arrivée";
+"actions_with_tickets" = "Actions de ticket";
+"actions_with_tickets_describe" = "Que faut-il faire avec le billet sélectionné?";
+"not_determine_current_city" = "Impossible de déterminer la ville actuelle!";

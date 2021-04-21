@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  Tickets_objective-c
+
+  Created by Александр Ипатов on 06.02.2021.
+  
+*/
+
+
+// TabBarController
+
+"search_tab" = "Search";
+"map_tab" = "Price map";
+"favorites_tab" = "Favorites";
+
+
+// MainViewController
+
+"main_from" = "From";
+"main_to" = "To";
+"main_search" = "Find";
+
+
+// FirstViewController
+
+"about_app_header" = "ABOUT";
+"tickets_header" = "TICKETS";
+"map_price_header" = "PRICE MAP";
+"favorites_header" = "FAVORITES";
+
+"favorites" = "Favorites";
+"about_app_describe" = "Flight search application";
+"tickets_describe" = "Find the cheapest flights";
+"map_price_describe" = "View the price map";
+"favorites_describe" = "Save selected tickets to favorites";
+
+"next_button" = "NEXT";
+"done_button" = "DONE";
+
+
+"airports" = "Airports";
+"cities" = "Cities";
+
+
+// TicketsViewController
+
+"tickets_title" = "Tickets";
+"add_to_favorite" = "Add to favorite";
+"remove_from_favorite" = "Remove from favorite";
+"remind_me" = "Remind me";
+"ticket_reminder" = "Ticket reminder";
+"notification_will_be_sent" = "Notification will be sent";
+"success" = "Success";
+
+// Alerts
+
+"error" = "Error";
+"tickets_not_found" = "No tickets found for this direction";
+"oops" = "Oops!";
+"close" = "Close";
+"not_set_place_arrival_or_departure" = "You must indicate the place of departure and place of arrival";
+"actions_with_tickets" = "Ticket Actions";
+"actions_with_tickets_describe" = "What should be done with the selected ticket?";
+"not_determine_current_city" = "Could not determine the current city!";

@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  Tickets_objective-c
+
+  Created by Александр Ипатов on 06.02.2021.
+  
+*/
+// TabBarController
+
+"search_tab" = "Поиск";
+"map_tab" = "Карта цен";
+"favorites_tab" = "Избранное";
+
+
+// MainViewController
+
+"main_from" = "Откуда";
+"main_to" = "Куда";
+"main_search" = "Найти";
+
+
+// FirstViewController
+
+"about_app_header" = "О ПРИЛОЖЕНИИ";
+"tickets_header" = "АВИАБИЛЕТЫ";
+"map_price_header" = "КАРТА ЦЕН";
+"favorites_header" = "ИЗБРАННОЕ";
+
+"favorites" = "Избранное";
+"about_app_describe" = "Приложение для поиска авиабилетов";
+"tickets_describe" = "Находите самые дешевые авиабилеты";
+"map_price_describe" = "Просматривайте карту цен";
+"favorites_describe" = "Сохраняйте выбранные билеты в избранное";
+
+"next_button" = "ДАЛЕЕ";
+"done_button" = "ГОТОВО";
+
+"airports" = "Аэропорты";
+"cities" = "Города";
+
+// TicketsViewController
+
+"tickets_title" = "Билеты";
+"add_to_favorite" = "Добавить в избранное";
+"remove_from_favorite" = "Удалить из избранного";
+"remind_me" = "Напомнить";
+"ticket_reminder" = "Напоминание о билете";
+"notification_will_be_sent" = "Уведомление будет отправлено";
+"success" = "Успешно";
+
+// Alerts
+
+"error" = "Ошибка";
+"tickets_not_found" = "По данному направлению билетов не найдено";
+"close" = "Закрыть";
+"not_set_place_arrival_or_departure" = "Необходимо указать место отправления и место прибытия";
+"actions_with_tickets" = "Действия с билетом";
+"actions_with_tickets_describe" = "Что необходимо сделать с выбранным билетом?";
+"not_determine_current_city" = "Не удалось определить текущий город!";
