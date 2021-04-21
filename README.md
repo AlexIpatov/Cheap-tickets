@@ -6,6 +6,7 @@ Route building screen with the definition of the current location:
 ![imgonline-com-ua-Resize-6MK269bwctvHp](https://user-images.githubusercontent.com/65159241/115546774-1aa59300-a2ae-11eb-83f3-33d2de50c2ba.jpg)
 
 Screen with the ability to select an airport or city:
+
 ![imgonline-com-ua-Resize-IKnYd0frRiqLs](https://user-images.githubusercontent.com/65159241/115546928-4f194f00-a2ae-11eb-8507-44ae1704cbb3.jpg)
 
 Table with tickets generated based on the results of a request:
